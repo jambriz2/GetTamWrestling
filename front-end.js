@@ -67,18 +67,18 @@ function update_score(current_score) {
 }
 
 var school_list = [
-	"TamisCal",
-	"Marin Academy",
-	"San Marin",
-	"Terra Linda",
-	"Redwood",
-	"Novato",
-	"Archie Williams",
-	"Marin Catholic",
-	"San Rafael",
-	"Branson",
-	"Tamalpais",
-  "JC Farr"
+	"Robert",
+	"Marko",
+	"Cole",
+	"Hayden",
+	"Sebastian",
+	"Alexander",
+	"Decker",
+	"Lukas",
+	"Marco",
+	"Liam",
+	"Picus",
+  "Jordan Burrows"
 ]
 
 
