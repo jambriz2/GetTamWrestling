@@ -53,7 +53,7 @@ function preload() {
     loadImage("images/novato.png"),
     loadImage("images/archie.png"),
     loadImage("images/mc.png"),
-    loadImage("images/sr.jpg"),
+    loadImage("images/sr.png"),
     loadImage("images/branson.png"),
     loadImage("images/tam.png"),
     loadImage("images/last.png"),
