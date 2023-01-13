@@ -70,6 +70,7 @@ var school_list = [
 	"Robert",
 	"Marko",
 	"Cole",
+	"Nick",
 	"Hayden",
 	"Sebastian",
 	"Alexander",
@@ -77,7 +78,6 @@ var school_list = [
 	"Lukas",
 	"Marco",
 	"Liam",
-	"Picus",
   "Jordan Burrows"
 ]
 
