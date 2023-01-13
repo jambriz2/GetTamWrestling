@@ -74,7 +74,7 @@ function hawkIcon() {
 }
 
 function indicate() {
-  let p = createP("Click to see the leaderboard! -->")
+  let p = createP("")
   p.style('color', '#1f4ba3');
   p.style('font-weight', 'bold');
   p.id("indicate");
