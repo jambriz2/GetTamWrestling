@@ -77,7 +77,7 @@ var school_list = [
 	"Cole",
 	"Liam",
 	"Marco",
-	"Cole",
+	"Decker",
   "Nightmare"
 ]
 
