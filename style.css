@@ -39,9 +39,9 @@ p {
 }
 
 .grid-container {
-	padding-top: 20px;
+	padding-top: 50px;
 	margin: 0px auto;
-	max-width: 1000px;
+	max-width: 900px;
   
 	border-left: 1px solid #c0b4b4;
 	border-top: 10px solid #6c7999;
@@ -135,7 +135,7 @@ div.score-entry {
 }
 
 #officer-table {
-    width: 100%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -152,14 +152,14 @@ div.score-entry {
 
 .school-card > div {
     text-align: left;
-    padding: 10px 15px 15px 10px;
+    padding: 40px 25px 25px 40px;
 }
 .school-card > img {
 	border-radius: 0;
   width: auto;
 	height: 11rem;
   text-align: left;
-  padding: 15px 15px 15px 20px;
+  padding: 25px 25px 25px 40px;
 }
 
 .btn {
