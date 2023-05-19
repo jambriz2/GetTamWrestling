@@ -68,17 +68,17 @@ function update_score(current_score) {
 
 var school_list = [
 	"Robert",
-	"Marko",
-	"Cole",
-	"Nick",
-	"Hayden",
-	"Sebastian",
-	"Alexander",
-	"Decker",
+	"Damian",
+	"Elias",
 	"Lukas",
-	"Marco",
+	"Alexander",
+	"Nick",
+	"Jedi",
+	"Cole",
 	"Liam",
-  "Jordan Burrows"
+	"Marco",
+	"Cole",
+  "Nightmare"
 ]
 
 
