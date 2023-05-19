@@ -141,14 +141,14 @@ div.score-entry {
 
 .school-card > div {
     text-align: left;
-    padding: 30px 25px 25px 30px;
+    padding: 5px 5px 5px 5px;
 }
 .school-card > img {
 	border-radius: 0;
   width: auto;
 	height: 11rem;
   text-align: left;
-  padding: 25px 25px 25px 25px;
+  padding: 15px 5px 15px 10px;
 }
 
 .btn {
